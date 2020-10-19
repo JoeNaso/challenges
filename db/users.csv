@@ -1,0 +1,25 @@
+date_inactive,date_joined,did_hit_quota,full_name,id,is_active,role,role_id,team,team_id
+,2019-04-05,False,Joseph Dougherty,1,True,"{'id': 2, 'monthly_quota': 2220.7615057236508, 'title': 'sales_leader'}",2,"{'id': 0, 'type': 'enterprise_sales', 'division': 'APAC'}",0
+2020-09-03,2019-10-26,False,Michelle Hunter,2,False,"{'id': 1, 'monthly_quota': 2145.339173943017, 'title': 'sales_leader'}",1,"{'id': 0, 'type': 'enterprise_sales', 'division': 'EMEA'}",0
+,2020-02-24,True,Robert Frazier,3,True,"{'id': 1, 'monthly_quota': 32233.03942450081, 'title': 'sales_rep'}",1,"{'id': 1, 'type': 'smb_sales', 'division': 'NAMER'}",1
+2020-02-28,2019-08-18,False,Elizabeth Cuevas MD,4,False,"{'id': 2, 'monthly_quota': 43630.63254267283, 'title': 'sales_rep'}",2,"{'id': 1, 'type': 'smb_sales', 'division': 'EMEA'}",1
+,2020-02-26,False,Charles Lee,5,True,"{'id': 1, 'monthly_quota': 43619.69858575248, 'title': 'sales_leader'}",1,"{'id': 1, 'type': 'enterprise_sales', 'division': 'APAC'}",1
+2020-07-15,2019-09-07,False,Paula Ruiz,6,False,"{'id': 1, 'monthly_quota': 43895.245378698564, 'title': 'sales_rep'}",1,"{'id': 1, 'type': 'smb_sales', 'division': 'APAC'}",1
+,2019-06-26,True,Matthew Hess,7,True,"{'id': 2, 'monthly_quota': 41804.64745798543, 'title': 'sales_leader'}",2,"{'id': 0, 'type': 'enterprise_sales', 'division': 'EMEA'}",0
+,2019-07-23,True,Anna Donaldson,8,True,"{'id': 2, 'monthly_quota': 33267.37103738966, 'title': 'sales_rep'}",2,"{'id': 1, 'type': 'smb_sales', 'division': 'EMEA'}",1
+,2020-07-05,False,Sally Hodges,9,True,"{'id': 2, 'monthly_quota': 15196.656069158204, 'title': 'sales_leader'}",2,"{'id': 0, 'type': 'smb_sales', 'division': 'APAC'}",0
+,2019-10-09,True,David Ford,10,True,"{'id': 2, 'monthly_quota': 26091.09516170695, 'title': 'sales_leader'}",2,"{'id': 0, 'type': 'smb_sales', 'division': 'EMEA'}",0
+2020-09-23,2020-08-05,False,Cassandra Roberts,11,False,"{'id': 2, 'monthly_quota': 10496.285339323853, 'title': 'sales_leader'}",2,"{'id': 1, 'type': 'enterprise_sales', 'division': 'APAC'}",1
+,2020-07-17,False,Matthew Conley,12,True,"{'id': 2, 'monthly_quota': 15579.967356950563, 'title': 'sales_rep'}",2,"{'id': 0, 'type': 'smb_sales', 'division': 'NAMER'}",0
+,2019-02-27,False,Cynthia Hernandez,13,True,"{'id': 2, 'monthly_quota': 39421.137869327154, 'title': 'sales_rep'}",2,"{'id': 1, 'type': 'smb_sales', 'division': 'APAC'}",1
+2020-08-31,2020-03-07,False,Kenneth Lopez,14,False,"{'id': 2, 'monthly_quota': 48215.56975170291, 'title': 'sales_leader'}",2,"{'id': 0, 'type': 'enterprise_sales', 'division': 'NAMER'}",0
+2020-06-10,2020-05-15,False,Joshua White,15,False,"{'id': 1, 'monthly_quota': 49068.21433933521, 'title': 'sales_rep'}",1,"{'id': 1, 'type': 'enterprise_sales', 'division': 'NAMER'}",1
+,2019-05-26,False,Kevin Pierce,16,True,"{'id': 2, 'monthly_quota': 22599.144363284708, 'title': 'sales_rep'}",2,"{'id': 1, 'type': 'enterprise_sales', 'division': 'APAC'}",1
+2020-08-10,2020-04-09,False,Kristi Klein,17,False,"{'id': 1, 'monthly_quota': 30094.205727551383, 'title': 'sales_rep'}",1,"{'id': 1, 'type': 'enterprise_sales', 'division': 'APAC'}",1
+2019-06-18,2019-03-07,False,Fred Morrow,18,False,"{'id': 2, 'monthly_quota': 3238.226231437197, 'title': 'sales_rep'}",2,"{'id': 0, 'type': 'smb_sales', 'division': 'EMEA'}",0
+2019-06-20,2019-01-21,False,Kyle Smith,19,False,"{'id': 1, 'monthly_quota': 18425.037314222955, 'title': 'sales_rep'}",1,"{'id': 1, 'type': 'smb_sales', 'division': 'APAC'}",1
+2020-10-02,2020-08-07,False,Amy Hayden,20,False,"{'id': 1, 'monthly_quota': 26332.997868166436, 'title': 'sales_leader'}",1,"{'id': 0, 'type': 'enterprise_sales', 'division': 'NAMER'}",0
+,2020-10-06,True,Angel Gordon,21,True,"{'id': 1, 'monthly_quota': 25950.702169239943, 'title': 'sales_leader'}",1,"{'id': 0, 'type': 'smb_sales', 'division': 'NAMER'}",0
+2020-09-26,2020-05-27,False,Brittany Turner,22,False,"{'id': 1, 'monthly_quota': 31585.88301777928, 'title': 'sales_leader'}",1,"{'id': 0, 'type': 'enterprise_sales', 'division': 'NAMER'}",0
+,2020-09-13,True,Brandon Knapp,23,True,"{'id': 1, 'monthly_quota': 46093.403809782416, 'title': 'sales_rep'}",1,"{'id': 1, 'type': 'smb_sales', 'division': 'NAMER'}",1
+2019-07-06,2019-02-05,False,Nancy Johnson,24,False,"{'id': 2, 'monthly_quota': 22574.157135494384, 'title': 'sales_rep'}",2,"{'id': 1, 'type': 'enterprise_sales', 'division': 'APAC'}",1
